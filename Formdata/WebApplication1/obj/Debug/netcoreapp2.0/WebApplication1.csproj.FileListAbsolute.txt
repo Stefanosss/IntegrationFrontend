@@ -1,0 +1,11 @@
+C:\Users\stef\Desktop\Formdata\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.deps.json
+C:\Users\stef\Desktop\Formdata\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.json
+C:\Users\stef\Desktop\Formdata\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.dev.json
+C:\Users\stef\Desktop\Formdata\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.dll
+C:\Users\stef\Desktop\Formdata\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.pdb
+C:\Users\stef\Desktop\Formdata\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\stef\Desktop\Formdata\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\stef\Desktop\Formdata\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\stef\Desktop\Formdata\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfo.cs
+C:\Users\stef\Desktop\Formdata\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.dll
+C:\Users\stef\Desktop\Formdata\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.pdb
